@@ -10,28 +10,28 @@ Publiczne, **zatwierdzone** assety marketingowe GEORate. Tylko rzeczy gotowe do 
 
 Źródło: Storyboard18, 18.11.2026. Audyt 939 indyjskich marek w pięciu branżach (lipiec 2026). 94% nie przeszło podstawowego benchmarku widoczności w AI. Powód z artykułu: strony były trudne do odczytania dla botów.
 
-- `site/campaigns/ai-visibility-94/linkedin.md` — post LinkedIn + pierwszy komentarz
-- `site/campaigns/ai-visibility-94/instagram.md` — caption + slajdy + hashtagi
-- `site/campaigns/ai-visibility-94/alt-text.md` — alt text
-- `site/campaigns/ai-visibility-94/meta.json` — metadane kampanii
-- `site/campaigns/ai-visibility-94/n8n-approval-payload.json` — payload do workflow `georate-marketing/approve`
+- `docs/campaigns/ai-visibility-94/linkedin.md` — post LinkedIn + pierwszy komentarz
+- `docs/campaigns/ai-visibility-94/instagram.md` — caption + slajdy + hashtagi
+- `docs/campaigns/ai-visibility-94/alt-text.md` — alt text
+- `docs/campaigns/ai-visibility-94/meta.json` — metadane kampanii
+- `docs/campaigns/ai-visibility-94/n8n-approval-payload.json` — payload do workflow `georate-marketing/approve`
 
 #### LinkedIn
 
-![LinkedIn cover](site/campaigns/ai-visibility-94/linkedin-cover-94.png)
+![LinkedIn cover](docs/campaigns/ai-visibility-94/linkedin-cover-94.png)
 
 #### Instagram — carousel
 
-![IG cover](site/campaigns/ai-visibility-94/ig-01-cover.png)
-![IG źródło](site/campaigns/ai-visibility-94/ig-02-source.png)
-![IG problem](site/campaigns/ai-visibility-94/ig-03-problem.png)
-![IG poprawki](site/campaigns/ai-visibility-94/ig-04-fixes.png)
-![IG CTA](site/campaigns/ai-visibility-94/ig-05-cta.png)
+![IG cover](docs/campaigns/ai-visibility-94/ig-01-cover.png)
+![IG źródło](docs/campaigns/ai-visibility-94/ig-02-source.png)
+![IG problem](docs/campaigns/ai-visibility-94/ig-03-problem.png)
+![IG poprawki](docs/campaigns/ai-visibility-94/ig-04-fixes.png)
+![IG CTA](docs/campaigns/ai-visibility-94/ig-05-cta.png)
 
 #### Warianty dodatkowe
 
-![Quote card](site/campaigns/ai-visibility-94/linkedin-quote.png)
-![Bar chart](site/campaigns/ai-visibility-94/linkedin-bar-94.png)
+![Quote card](docs/campaigns/ai-visibility-94/linkedin-quote.png)
+![Bar chart](docs/campaigns/ai-visibility-94/linkedin-bar-94.png)
 
 ## Szablony
 
