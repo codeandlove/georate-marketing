@@ -1,0 +1,27 @@
+{
+  "campaign": "ai-visibility-94",
+  "channel": "instagram",
+  "previews": [
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/ig-01-cover.png",
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/ig-02-source.png",
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/ig-03-problem.png",
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/ig-04-fixes.png",
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/ig-05-cta.png",
+    "https://codeandlove.github.io/georate-marketing/campaigns/ai-visibility-94/linkedin-cover-94.png"
+  ],
+  "copy": {
+    "caption": "939 indyjskich marek. Pięć branż. 94% nie przeszło benchmarku widoczności w AI (Storyboard18, 18.11.2026). Powód z artykułu: ich strony były trudne do odczytania dla botów. AI poleci tylko to, co potrafi przeczytać. Sprawdź swoją markę w ChatGPT, Gemini, Claude i Perplexity. Link w bio.",
+    "hashtags": [
+      "#WidocznośćWAI",
+      "#GEO",
+      "#SEO",
+      "#ChatGPT",
+      "#Gemini",
+      "#Perplexity"
+    ],
+    "alt": [
+      "Grafika: 94% z 939 indyjskich marek nie przeszło benchmarku widoczności w AI, według Storyboard18 z 18.11.2026."
+    ]
+  },
+  "cta_url": "https://georate.ai/check?utm_source=instagram&utm_medium=social&utm_campaign=ai-visibility-94"
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img">
+  <title>AI poleci tylko to, co potrafi przeczytać</title>
+  
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e09034"/>
+      <stop offset="1" stop-color="#804ad8"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+            <path d="M72 0H0V72" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+          </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#141118"/>
+  <rect width="1080" height="1350" fill="url(#grid)"/>
+  <circle cx="880" cy="980" r="420" fill="none" stroke="url(#brand)" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="880" cy="980" r="280" fill="none" stroke="url(#brand)" stroke-opacity=".12" stroke-width="1.5"/>
+  
+  <g transform="translate(96 96) scale(1.1666666666666667)">
+    <path d="M35.31 12.69A16 16 0 1 0 39.04 29.47L26.5 29.47"
+      fill="none" stroke="url(#brand)" stroke-width="5.5"
+      stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29.5" cy="20" r="4" fill="url(#brand)"/>
+  </g>
+  <text x="168" y="136.32" font-family="Liberation Sans, Arial, sans-serif"
+    font-size="29.12" font-weight="700" letter-spacing="-1"
+    fill="#f7f3ec">GEORate</text>
+  <text x="96" y="240" font-family="Liberation Sans, Arial, sans-serif" font-size="26"
+    font-weight="700" letter-spacing="5"
+    fill="#e09034">PROBLEM</text>
+  <text x="96" y="520" font-family="Liberation Sans, Arial, sans-serif" font-size="92" font-weight="700" fill="#f7f3ec">AI poleci tylko</text>
+  <text x="96" y="618" font-family="Liberation Sans, Arial, sans-serif" font-size="92" font-weight="700" fill="#f7f3ec">to, co potrafi</text>
+  <text x="96" y="716" font-family="Liberation Sans, Arial, sans-serif" font-size="92" font-weight="700" fill="url(#brand)">przeczytać.</text>
+  <text x="96" y="850" font-family="Liberation Sans, Arial, sans-serif" font-size="42" fill="#f7f3ec">Jeśli strona jest trudna</text>
+  <text x="96" y="906" font-family="Liberation Sans, Arial, sans-serif" font-size="42" fill="#f7f3ec">dla botów, Twojej marki</text>
+  <text x="96" y="962" font-family="Liberation Sans, Arial, sans-serif" font-size="42" fill="#f7f3ec">nie ma w odpowiedzi.</text>
+  <text x="96" y="1060" font-family="Liberation Sans, Arial, sans-serif" font-size="32" fill="#8a8394">Pozycja w Google to nie rekomendacja w AI.</text>
+  <text x="96" y="1262" font-family="Liberation Sans, Arial, sans-serif" font-size="24"
+    fill="#8a8394">georate.ai/check</text>
+</svg>

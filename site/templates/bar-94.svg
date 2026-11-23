@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img">
+  <title>94% nie przeszło, 6% przeszło</title>
+  
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e09034"/>
+      <stop offset="1" stop-color="#804ad8"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+            <path d="M72 0H0V72" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+          </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#f7f3ec"/>
+  <rect width="1080" height="1350" fill="url(#grid)" opacity=".55"/>
+  
+  <g transform="translate(96 96) scale(1.1666666666666667)">
+    <path d="M35.31 12.69A16 16 0 1 0 39.04 29.47L26.5 29.47"
+      fill="none" stroke="url(#brand)" stroke-width="5.5"
+      stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29.5" cy="20" r="4" fill="url(#brand)"/>
+  </g>
+  <text x="168" y="136.32" font-family="Liberation Sans, Arial, sans-serif"
+    font-size="29.12" font-weight="700" letter-spacing="-1"
+    fill="#141118">GEORate</text>
+  <text x="96" y="240" font-family="Liberation Sans, Arial, sans-serif" font-size="26"
+    font-weight="700" letter-spacing="5"
+    fill="#804ad8">BENCHMARK</text>
+  <text x="96" y="390" font-family="Liberation Sans, Arial, sans-serif" font-size="72" font-weight="700" fill="#141118">94% nie przeszło.</text>
+  <text x="96" y="470" font-family="Liberation Sans, Arial, sans-serif" font-size="72" font-weight="700" fill="#6f6875">6% przeszło.</text>
+  <text x="96" y="560" font-family="Liberation Sans, Arial, sans-serif" font-size="34" fill="#6f6875">939 indyjskich marek. Pięć branż.</text>
+  <text x="96" y="606" font-family="Liberation Sans, Arial, sans-serif" font-size="34" fill="#6f6875">Lipiec 2026.</text>
+  <rect x="96" y="690" width="888" height="72" rx="36" fill="#e6dfd4"/>
+  <rect x="96" y="690" width="835" height="72" rx="36" fill="url(#brand)"/>
+  <text x="96" y="820" font-family="Liberation Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#141118">94% nie przeszło</text>
+  <text x="984" y="820" text-anchor="end" font-family="Liberation Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#6f6875">6% przeszło</text>
+  <text x="96" y="960" font-family="Liberation Sans, Arial, sans-serif" font-size="40" font-weight="700" fill="#141118">Powód z artykułu: strony były</text>
+  <text x="96" y="1012" font-family="Liberation Sans, Arial, sans-serif" font-size="40" font-weight="700" fill="#141118">trudne do odczytania dla botów.</text>
+  <text x="96" y="1110" font-family="Liberation Sans, Arial, sans-serif" font-size="28" fill="#6f6875">Źródło: Storyboard18, 18.11.2026</text>
+  <text x="96" y="1262" font-family="Liberation Sans, Arial, sans-serif" font-size="24"
+    fill="#6f6875">georate.ai/check</text>
+</svg>

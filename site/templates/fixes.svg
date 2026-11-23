@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img">
+  <title>Trzy poprawki widoczności w AI</title>
+  
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e09034"/>
+      <stop offset="1" stop-color="#804ad8"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+            <path d="M72 0H0V72" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+          </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#f7f3ec"/>
+  <rect width="1080" height="1350" fill="url(#grid)" opacity=".55"/>
+  
+  <g transform="translate(96 96) scale(1.1666666666666667)">
+    <path d="M35.31 12.69A16 16 0 1 0 39.04 29.47L26.5 29.47"
+      fill="none" stroke="url(#brand)" stroke-width="5.5"
+      stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29.5" cy="20" r="4" fill="url(#brand)"/>
+  </g>
+  <text x="168" y="136.32" font-family="Liberation Sans, Arial, sans-serif"
+    font-size="29.12" font-weight="700" letter-spacing="-1"
+    fill="#141118">GEORate</text>
+  <text x="96" y="240" font-family="Liberation Sans, Arial, sans-serif" font-size="26"
+    font-weight="700" letter-spacing="5"
+    fill="#804ad8">3 POPRAWKI</text>
+  <text x="96" y="360" font-family="Liberation Sans, Arial, sans-serif" font-size="64" font-weight="700" fill="#141118">Co widzimy najczęściej</text>
+  
+    <g transform="translate(96 520)">
+      <text x="0" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#brand)">01</text>
+      <text x="120" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="42" font-weight="700" fill="#141118">Uczyń stronę czytelną</text>
+      <text x="120" y="52" font-family="Liberation Sans, Arial, sans-serif" font-size="26" fill="#6f6875">Czysty HTML, szybkie strony, bez blokad dla botów.</text>
+      <line x1="120" y1="92" x2="888" y2="92" stroke="#e6dfd4" stroke-width="2"/>
+    </g>
+    <g transform="translate(96 740)">
+      <text x="0" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#brand)">02</text>
+      <text x="120" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="42" font-weight="700" fill="#141118">Publikuj strony porównawcze</text>
+      <text x="120" y="52" font-family="Liberation Sans, Arial, sans-serif" font-size="26" fill="#6f6875">Odpowiedz na „X vs Y”, zanim zrobi to AI.</text>
+      <line x1="120" y1="92" x2="888" y2="92" stroke="#e6dfd4" stroke-width="2"/>
+    </g>
+    <g transform="translate(96 960)">
+      <text x="0" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#brand)">03</text>
+      <text x="120" y="0" font-family="Liberation Sans, Arial, sans-serif" font-size="42" font-weight="700" fill="#141118">Zdobądź cytowania w źródłach</text>
+      <text x="120" y="52" font-family="Liberation Sans, Arial, sans-serif" font-size="26" fill="#6f6875">Recenzje, katalogi, strony branżowe.</text>
+      <line x1="120" y1="92" x2="888" y2="92" stroke="#e6dfd4" stroke-width="2"/>
+    </g>
+  <text x="96" y="1262" font-family="Liberation Sans, Arial, sans-serif" font-size="24"
+    fill="#6f6875">georate.ai/check</text>
+</svg>

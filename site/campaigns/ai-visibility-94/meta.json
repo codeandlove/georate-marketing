@@ -1,0 +1,42 @@
+{
+  "campaign": "ai-visibility-94",
+  "status": "published",
+  "language": "pl",
+  "created_at": "2026-11-23",
+  "source": {
+    "publisher": "Storyboard18",
+    "published_at": "2026-11-18",
+    "url": "https://storyboard18.com/brand-marketing/indian-brands-fail-ai-visibility-benchmarks-study-ws-l-115073.htm",
+    "audit": "939 Indian brands, five industries, July 2026",
+    "finding": "94% failed the foundational AI visibility benchmark",
+    "reported_reason": "websites were difficult for bots to read"
+  },
+  "channels": ["linkedin", "instagram"],
+  "utm": {
+    "source": "linkedin | instagram",
+    "medium": "social",
+    "campaign": "ai-visibility-94"
+  },
+  "assets": {
+    "linkedin_cover": "linkedin-cover-94.png",
+    "linkedin_quote": "linkedin-quote.png",
+    "linkedin_bar": "linkedin-bar-94.png",
+    "instagram_carousel": [
+      "ig-01-cover.png",
+      "ig-02-source.png",
+      "ig-03-problem.png",
+      "ig-04-fixes.png",
+      "ig-05-cta.png"
+    ]
+  },
+  "copy": {
+    "linkedin": "linkedin.md",
+    "instagram": "instagram.md",
+    "alt_text": "alt-text.md"
+  },
+  "notes": [
+    "Logo is a temporary placeholder.",
+    "All numbers must keep the Indian-market context.",
+    "Source link is in the first LinkedIn comment."
+  ]
+}
