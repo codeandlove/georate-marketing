@@ -2,7 +2,7 @@
 
 Publiczne, **zatwierdzone** assety marketingowe GEORate. Tylko rzeczy gotowe do publikacji. Strategia, drafty i notatki wewnętrzne zostają w prywatnym repo.
 
-**Pages:** https://codeandlove.github.io/georate-marketing/
+**Pages:** https://marketing.georate.ai/
 
 ## Kampanie
 
