@@ -43,6 +43,7 @@ Publiczne, **zatwierdzone** assety marketingowe GEORate. Tylko rzeczy gotowe do 
 - Zero sekretów, tokenów, webhooków i danych klientów.
 - Każda liczba ma źródło i kontekst.
 - Alt text jest częścią assetu.
+- Instagram API: `ig-*.jpg` (JPEG only); `ig-*.png` zostają do podglądu i LinkedIn.
 - Logo jest tymczasowe (placeholder) — do podmiany na docelowe.
 
 ## Licencja

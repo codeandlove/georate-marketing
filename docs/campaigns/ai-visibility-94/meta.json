@@ -28,6 +28,13 @@
       "ig-03-problem.png",
       "ig-04-fixes.png",
       "ig-05-cta.png"
+    ],
+    "instagram_carousel_jpeg": [
+      "ig-01-cover.jpg",
+      "ig-02-source.jpg",
+      "ig-03-problem.jpg",
+      "ig-04-fixes.jpg",
+      "ig-05-cta.jpg"
     ]
   },
   "copy": {
