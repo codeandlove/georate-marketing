@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="312" viewBox="0 0 820 312" role="img">
+  <title>GEORate — Facebook cover</title>
+  
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e09034"/>
+      <stop offset="1" stop-color="#804ad8"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="820" height="312" fill="#141118"/>
+  <rect width="820" height="312" fill="url(#grid)"/>
+  <circle cx="720" cy="30" r="230" fill="none" stroke="url(#brand)" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 285 C 180 240, 380 310, 620 250 S 780 220, 820 240" fill="none" stroke="url(#brand)" stroke-opacity=".18" stroke-width="2"/>
+  
+  <g transform="translate(48 54) scale(3.0)">
+    <path d="M35.31 12.69A16 16 0 1 0 39.04 29.47L26.5 29.47"
+      fill="none" stroke="url(#brand)" stroke-width="5.5"
+      stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29.5" cy="20" r="4" fill="url(#brand)"/>
+  </g>
+  <text x="190" y="132" font-family="Liberation Sans, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#f7f3ec">GEORate</text>
+  <text x="190" y="174" font-family="Liberation Sans, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="3" fill="#e09034">WIDOCZNOŚĆ MARKI W AI</text>
+  <text x="772" y="282" text-anchor="end" font-family="Liberation Sans, Arial, sans-serif" font-size="18" fill="#8a8394">georate.ai</text>
+</svg>

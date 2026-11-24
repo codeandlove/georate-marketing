@@ -27,6 +27,21 @@ Gotowe pliki do założenia kont. Logo jest **placeholderem** — podmień, gdy 
 
 **Specialties:** AI visibility, GEO, brand monitoring, LLM analytics, ChatGPT, Gemini, Perplexity.
 
+## Facebook Page
+
+| Pole | Wartość |
+| --- | --- |
+| Nazwa | GEORate |
+| Sugerowany username | `georate` (jeśli zajęty: `georateai`) |
+| Kategoria | Software Company |
+| Strona www | https://georate.ai |
+| Cover | `facebook-cover-820x312.png` |
+| Profile | `facebook-profile-170x170.png` |
+
+**About:**
+
+> GEORate monitoruje, jak marki są widoczne w odpowiedziach modeli AI — ChatGPT, Gemini, Claude i Perplexity. Sprawdzamy, czy AI poleca Twoją markę, i pokazujemy, co poprawić.
+
 ## Instagram
 
 | Pole | Wartość |
